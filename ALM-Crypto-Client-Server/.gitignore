@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+client_1MB_test.txt
+server_10KB_received.txt
+.vscode/
+.idea/
